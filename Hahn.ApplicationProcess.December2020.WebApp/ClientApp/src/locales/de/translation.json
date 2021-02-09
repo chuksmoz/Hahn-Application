@@ -1,0 +1,10 @@
+
+{
+  "Name": "Name",
+  "FamilyName": "Nachname",
+  "Address": "Adresse",
+  "CountryOfOrigin": "Ursprungsland",
+  "EmailAdress": "E-Mail-Addresse",
+  "Age": "Alter",
+  "Hired": "Gemietet"
+}
